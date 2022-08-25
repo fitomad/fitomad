@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Adolfo @fitomad
-- 👨‍💻 I'm Software Engineer at Globant
-- 👀 I’m interested in **Swift**, backend development with **dotnet**, Azure cloud computing and Machine Learning / Deep Learning
-- 🌱 I’m currently learning Angular
+- 👋 Hi, I’m Adolfo (@fitomad)
+- 👨‍💻 I'm Software Engineer at Globant focused on Apple ecosystem
+- 👀 I’m interested in **Swift**, backend development with **dotnet**, cloud computing in **Azure** and Machine Learning / Deep Learning
+- 🌱 I’m currently learning **Angular**
 - 📫 How to reach me ...
 
 <!---
