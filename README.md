@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Angular**
 - 📙 I write about Swift development in my [Medium](https://medium.com/@FitoMAD) site
 - 📱 I have a few apps published at the [App Store](https://apps.apple.com/es/developer/adolfo-vera-blasco/id898601649)
-- 📫 How to reach me ...
 
 <!---
 fitomad/fitomad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
