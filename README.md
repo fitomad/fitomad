@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adolfo (@fitomad)
-- 👨‍💻 I'm Software Architct at Globant focused on Apple ecosystem
+- 👨‍💻 I'm Software Architect at Globant focused on Apple ecosystem
 - 👀 I’m very happy developing in **Swift**, backend development with **Vapor** and **dotnet**, cloud computing in **AWS** and **Azure** and Machine Learning / Deep Learning
 - 🌱 I’m currently learning about **Amazon Web Services**
 - 📙 I write about Swift development in my [Medium](https://medium.com/@FitoMAD) site
